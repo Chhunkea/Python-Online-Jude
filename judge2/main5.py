@@ -1,4 +1,4 @@
-#TODO:
+#TODO: Select an element from a set
 
 def perm(n, r):
     result = 1
